@@ -1,0 +1,1 @@
+This is the snake game on Arduino. Users can use some devices such as piezoresistor to change the voltage then play it. However, the voltage threshold may be changed by different users.
